@@ -1,2 +1,9 @@
 # EncurtadorDeURL
-Feito usando a API de um site, treinando requisição a APIs externas
+Site feito usando a API de um site de encurtamento de URLs, treinando requisição a APIs externas
+##
+
+<img src="banner_site.jpeg" width=700px>
+
+##
+
+Só colocar a URL ali no campo que seu link curto será gerado.
