@@ -9,4 +9,4 @@ https://levivromao.github.io/EncurtadorDeURL/
 
 ##
 
-Só colocar a URL ali no campo que seu link curto será gerado.
+Só colocar a URL ali no campo e apertar o botão que seu link curto será gerado.
